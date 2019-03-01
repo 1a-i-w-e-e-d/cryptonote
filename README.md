@@ -1,10 +1,14 @@
-This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
+This is the reference code for [iweed™](www.ïweed.com) cryptocurrency protocol.
 
-* Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
-* CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
-* Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
+For freemarket private trade( exclusively in California)
 
-## CryptoNote forking how-to
+
+all nodes are in California
+all nodes are hosted on tor and socks5 tunnels
+
+
+
+## iweed™ forking how-to
 
 ### Preparation
 
